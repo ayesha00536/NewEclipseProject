@@ -12,6 +12,7 @@ public class Addition {
 		int sum = first+second;
 		
 		System.out.println("The sum is: "+ sum);
+		System.out.println("Hiii");
 
 	}
 
